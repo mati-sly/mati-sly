@@ -1,41 +1,45 @@
-<h2 align="left">Hi 👋! My name is Matias and I'm a Linux user, from Chile</h2>
+<h2 align="left">¡Hola 👋! Soy Matías y soy usuario de Linux, desde Chile</h2>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mati-sly&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mati-sly&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=mati-sly&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="150" alt="estadísticas"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mati-sly&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="150" alt="lenguajes"  />
 </div>
 
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="logo Python"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="30" alt="bash logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="30" alt="logo Bash"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="logo Linux"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="logo Git"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="logo React"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="30" alt="logo Django"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/virtualbox/virtualbox-original.svg" height="30" alt="logo VirtualBox"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phpmyadmin/phpmyadmin-original.svg" height="30" alt="logo phpMyAdmin"  />
 </div>
 
 ###
 
-## 📝 Biography
+## 📝 Biografía
 
-I learned to use Linux with the terminal on a Chromebook. I've been in this beautiful world of Linux for 4 years. Currently, I use Linux Mint Debian Edition, but I’ve tried most distributions, from Fedora to Arch, including KDE Neon.
+Aprendí a usar Linux con la terminal en un Chromebook. Llevo 4 años en este maravilloso mundo de Linux. Actualmente uso Linux Mint Debian Edition, pero he probado la mayoría de las distribuciones, desde Fedora hasta Arch, incluyendo KDE Neon.
 
-I have intermediate skills in Python, CSS, and HTML. I'm passionate about cybersecurity, Linux system administration, and software development. I enjoy learning through practice, optimizing workflows, and exploring open-source tools.
+Me apasiona Linux y el ricing, la administración de sistemas y servidores, controlando servicios y entornos como Active Directory. También disfruto aprender mediante la práctica, optimizar flujos de trabajo y explorar herramientas de código abierto.
 
-I have certifications in Python, HTML5, CSS, Linux Essentials, and Introduction to Cybersecurity.  
+Tengo habilidades intermedias en Python, CSS y HTML, y me interesan la ciberseguridad, el desarrollo de software y la automatización de sistemas.  
 
 ###
 
-## 📫 Contact Me
+## 📫 Contacto
 
 <div class="contact-methods">
   <div class="contact-method">
@@ -54,35 +58,47 @@ I have certifications in Python, HTML5, CSS, Linux Essentials, and Introduction 
 
 ###
 
-## 🛠 Skills & Tools
+## 🛠 Habilidades y Herramientas
 
-- Programming: Python, HTML, CSS, Bash  
-- Version Control: Git  
-- Platforms: Linux (Mint, Debian, Fedora, Arch)  
-- Tools: VSCode,Virtualbox, PHPMyAdmin
-- Interests: Cybersecurity, Linux administration, software automation  
+- Programación: Python, HTML, CSS, Bash  
+- Control de versiones: Git  
+- Plataformas: Linux (Mint, Debian, Fedora, Arch)  
+- Herramientas: VSCode, VirtualBox, PHPMyAdmin, React, Django  
+- Intereses: Ciberseguridad, administración de Linux, servidores, Active Directory, automatización de software  
 
 ###
 
 <div align="left">
-  <img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=&color=1f1f1f&logoColor=ff0000&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=1f1f1f&logoColor=e4405f&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=1f1f1f&logoColor=9146ff&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=1f1f1f&logoColor=7289da&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=1f1f1f&logoColor=d14836&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=1f1f1f&logoColor=0077b5&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=&color=1f1f1f&logoColor=ff0000&labelColor=&style=for-the-badge" height="35" alt="YouTube"  />
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=1f1f1f&logoColor=e4405f&labelColor=&style=for-the-badge" height="35" alt="Instagram"  />
+  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=1f1f1f&logoColor=9146ff&labelColor=&style=for-the-badge" height="35" alt="Twitch"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=1f1f1f&logoColor=7289da&labelColor=&style=for-the-badge" height="35" alt="Discord"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=1f1f1f&logoColor=d14836&labelColor=&style=for-the-badge" height="35" alt="Gmail"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=1f1f1f&logoColor=0077b5&labelColor=&style=for-the-badge" height="35" alt="LinkedIn"  />
 </div>
 
 ###
 
-## 🎮 Gaming Favorites
+## 🎓 Certificaciones
 
-<div align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmhhazB0OGdlM2lhZ2owY2t0bDVmZ2dkb3hkbGU5Z2t2NjdyMzljcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/0BltJWfTwdlivMQPZB/giphy.gif" height="200" alt="Elden Ring GIF" />
-  <img width="20" />
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWUxMHd0MWNjdnhwOXhvbTVjcW4xa3JpanJpbmpkNGUzNW41dHZnbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OTrmVdfjYB0Z7yepBP/giphy.gif" height="200" alt="Sonic GIF" />
-  <img width="20" />
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWNxYTgzOWp4bW8wYjdvNjV6N3ZvcDV4YWRvdGRuajlhaXl3NTMyaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CFGyQLh90JU7S/giphy.gif" height="200" alt="Metal Gear GIF" />
+Aquí puedes agregar tus certificaciones con enlace al certificado. Usa esta plantilla:  
+
+- [**Nombre de la certificación**](URL_DEL_CERTIFICADO) – Institución / Fecha  
+- [**Nombre de la certificación**](URL_DEL_CERTIFICADO) – Institución / Fecha  
+- [**Nombre de la certificación**](URL_DEL_CERTIFICADO) – Institución / Fecha  
+
+(Ejemplo: [Certificación en Python](https://www.ejemplo.com/certificado-python) – OpenClassrooms / 2024)
+
+###
+
+## 🎮 Videojuegos Favoritos (Sección Divertida)
+
+<div align="center" style="border: 1px solid #444; padding: 10px; border-radius: 10px;">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmhhazB0OGdlM2lhZ2owY2t0bDVmZ2dkb3hkbGU5Z2t2NjdyMzljcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/0BltJWfTwdlivMQPZB/giphy.gif" height="100" alt="Elden Ring" />
+  <img width="10" />
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWUxMHd0MWNjdnhwOXhvbTVjcW4xa3JpanJpbmpkNGUzNW41dHZnbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OTrmVdfjYB0Z7yepBP/giphy.gif" height="100" alt="Sonic" />
+  <img width="10" />
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWNxYTgzOWp4bW8wYjdvNjV6N3ZvcDV4YWRvdGRuajlhaXl3NTMyaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CFGyQLh90JU7S/giphy.gif" height="100" alt="Metal Gear" />
 </div>
 
 ###
