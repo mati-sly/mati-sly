@@ -110,8 +110,10 @@ Aquí puedes agregar tus certificaciones con enlace al certificado:
     <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNW4zbWphczR3Y25jYmZ6Y2FrcWxkcG95bmk0bjFvbTA5bjBsNXh2NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XZbAsygv5VTZ5oumfo/giphy.gif" height="200" alt="Glitch Anime" />
     <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWF1N3E0dXUzMTJ3YmNoMDdyeHNtaHBzcmJ0YXN6emRwdWx4ODJodSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xBp6ZYaUXRWTCSZVgL/giphy.gif" height="200" alt="Cyber Anime" />
     <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjkweGRqdzNsN3BieW5ramVoODdpbHBoc2c3YnFka3NueG93aGhmeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0Iye29H39h7qVbgY/giphy.gif" height="200" alt="Nuevo GIF" />
+    <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGM2ZGF3anFzYTdkdjZramNuc3QybzV0dDI1NzVnbWU3M2Nvc2M4bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lGwMbk1mnR099IxAhj/giphy.gif" height="200" alt="Último GIF" />
   </div>
 </div>
+
 
 
 ###
