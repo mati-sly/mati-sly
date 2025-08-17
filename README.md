@@ -97,21 +97,21 @@ Aquí puedes agregar tus certificaciones con enlace al certificado:
 ## 🎮 Videojuegos Favoritos
 
 <div align="center" style="border: 1px solid #444; padding: 10px; border-radius: 10px;">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmhhazB0OGdlM2lhZ2owY2t0bDVmZ2dkb3hkbGU5Z2t2NjdyMzljcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/0BltJWfTwdlivMQPZB/giphy.gif" height="200" alt="Elden Ring" />
-  <img width="10" />
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWUxMHd0MWNjdnhwOXhvbTVjcW4xa3JpanJpbmpkNGUzNW41dHZnbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OTrmVdfjYB0Z7yepBP/giphy.gif" height="200" alt="Sonic" />
-  <img width="10" />
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWNxYTgzOWp4bW8wYjdvNjV6N3ZvcDV4YWRvdGRuajlhaXl3NTMyaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CFGyQLh90JU7S/giphy.gif" height="200" alt="Metal Gear" />
-  <img width="10" />
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTRhajVkaHA4YzZobDFvODVnOHV6ZGY3bm5lMWk4ZDk3NDBkOWg2OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lGwMbk1mnR099IxAhj/giphy.gif" height="200" alt="Lain Game 1" />
-  <img width="10" />
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2pwYmJ2d2U2eGc4NHcwZnBsb2czZDFrNjIxYnR5ZWN2Nm93ZzljcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qXzaLPChUD5iOtg7kJ/giphy.gif" height="200" alt="Lain Game 2" />
-  <img width="10" />
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNW4zbWphczR3Y25jYmZ6Y2FrcWxkcG95bmk0bjFvbTA5bjBsNXh2NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XZbAsygv5VTZ5oumfo/giphy.gif" height="200" alt="Glitch Anime" />
-  <img width="10" />
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWF1N3E0dXUzMTJ3YmNoMDdyeHNtaHBzcmJ0YXN6emRwdWx4ODJodSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xBp6ZYaUXRWTCSZVgL/giphy.gif" height="200" alt="Cyber Anime" />
-</div>
+  <!-- Primera fila -->
+  <div style="display: flex; justify-content: center; gap: 10px; margin-bottom: 10px;">
+    <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmhhazB0OGdlM2lhZ2owY2t0bDVmZ2dkb3hkbGU5Z2t2NjdyMzljcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/0BltJWfTwdlivMQPZB/giphy.gif" height="200" alt="Elden Ring" />
+    <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWUxMHd0MWNjdnhwOXhvbTVjcW4xa3JpanJpbmpkNGUzNW41dHZnbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OTrmVdfjYB0Z7yepBP/giphy.gif" height="200" alt="Sonic" />
+    <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWNxYTgzOWp4bW8wYjdvNjV6N3ZvcDV4YWRvdGRuajlhaXl3NTMyaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CFGyQLh90JU7S/giphy.gif" height="200" alt="Metal Gear" />
+  </div>
 
+  <!-- Segunda fila -->
+  <div style="display: flex; justify-content: center; gap: 10px;">
+    <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTRhajVkaHA4YzZobDFvODVnOHV6ZGY3bm5lMWk4ZDk3NDBkOWg2OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lGwMbk1mnR099IxAhj/giphy.gif" height="200" alt="Lain Game" />
+    <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNW4zbWphczR3Y25jYmZ6Y2FrcWxkcG95bmk0bjFvbTA5bjBsNXh2NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XZbAsygv5VTZ5oumfo/giphy.gif" height="200" alt="Like A Dragon" />
+    <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWF1N3E0dXUzMTJ3YmNoMDdyeHNtaHBzcmJ0YXN6emRwdWx4ODJodSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xBp6ZYaUXRWTCSZVgL/giphy.gif" height="200" alt="Red Dead Redemption 2" />
+    <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjkweGRqdzNsN3BieW5ramVoODdpbHBoc2c3YnFka3NueG93aGhmeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0Iye29H39h7qVbgY/giphy.gif" height="200" alt="Nuevo GIF" />
+  </div>
+</div>
 
 
 ###
