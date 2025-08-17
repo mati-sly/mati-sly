@@ -9,9 +9,6 @@
 
 ###
 
-
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
@@ -37,6 +34,25 @@ I have intermediate skills in Python, CSS, and HTML. I'm passionate about cybers
 I have certifications in Python, HTML5, CSS, Linux Essentials, and Introduction to Cybersecurity.  
 
 I also enjoy gaming and series like *Twin Peaks*. Some of my favorite games are *Elden Ring*, *Sonic*, and *Metal Gear*.
+
+###
+
+## 📫 Contact Me
+
+<div class="contact-methods">
+  <div class="contact-method">
+    <span class="contact-icon">📧</span>
+    <a href="mailto:matias34890@gmail.com">matias34890@gmail.com</a>
+  </div>
+  <div class="contact-method">
+    <span class="contact-icon">💼</span>
+    <a href="https://www.linkedin.com/in/matias-vega-280ba1235/" target="_blank">LinkedIn</a>
+  </div>
+  <div class="contact-method">
+    <span class="contact-icon">🐙</span>
+    <a href="https://github.com/mati-sly" target="_blank">GitHub</a>
+  </div>
+</div>
 
 ###
 
@@ -74,3 +90,4 @@ I also enjoy gaming and series like *Twin Peaks*. Some of my favorite games are 
 ###
 
 <br clear="both">
+
