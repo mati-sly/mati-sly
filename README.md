@@ -43,7 +43,7 @@ I also enjoy gaming and series like *Twin Peaks*. Some of my favorite games are 
 ## 🎮 Gaming Favorites
 
 <div align="center">
-  <img src="https://tenor.com/view/sonic-running-gif-20943788" height="100" alt="Elden Ring GIF" />
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmhhazB0OGdlM2lhZ2owY2t0bDVmZ2dkb3hkbGU5Z2t2NjdyMzljcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/0BltJWfTwdlivMQPZB/giphy.gif" height="100" alt="Elden Ring GIF" />
   <img width="20" />
   <img src="https://media.giphy.com/media/3o6ZtpxSZbQRRnwCKQ/giphy.gif" height="100" alt="Sonic GIF" />
   <img width="20" />
