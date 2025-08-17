@@ -87,9 +87,10 @@ Tengo habilidades intermedias en Python, CSS y HTML, y me interesan la cibersegu
 
 Aquí puedes agregar tus certificaciones con enlace al certificado. Usa esta plantilla:  
 
-- [**Nombre de la certificación**](https://drive.google.com/file/d/1mVoHwxvwfTqnQyS1o7pRjSe_ih_PzNg6/view) – Institución / Fecha  
-- [**Nombre de la certificación**](https://drive.google.com/file/d/1jcyrgxAMI91m7eJJiMr-WVu79EQ_kwuO/view) – Institución / Fecha  
-- [**Nombre de la certificación**](URL_DEL_CERTIFICADO) – Institución / Fecha  
+
+- [**NDG Linux Essentials – Linux Professional Institute (LPI)**](https://drive.google.com/file/d/1mVoHwxvwfTqnQyS1o7pRjSe_ih_PzNg6/view) – Cisco Networking Academy / 2024  
+- [**Operating Systems Basics Badge**](https://drive.google.com/file/d/1jcyrgxAMI91m7eJJiMr-WVu79EQ_kwuO/view) – Cisco Networking Academy / 2024  
+
 
 (Ejemplo: [Certificación en Python](https://www.ejemplo.com/certificado-python) – OpenClassrooms / 2024)
 
