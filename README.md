@@ -116,7 +116,6 @@ Aquí puedes agregar tus certificaciones con enlace al certificado:
 
 
 
-
 ###
 
 <br clear="both">
