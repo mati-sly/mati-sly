@@ -1,7 +1,7 @@
 <h2 align="left">¡Hola 👋! Soy Matías y soy usuario de Linux, desde Chile</h2>
 
 <div align="center">
-  <img src="https://media.tenor.com/wv7Rwz7ePHQAAAAi/lain-iwakura.gif" height="150" alt="GIF Lain" />
+  <img src="https://media.tenor.com/wv7Rwz7ePHQAAAAi/lain-iwakura.gif" height="180" alt="GIF Lain" />
 </div>
 
 ###
