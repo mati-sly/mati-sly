@@ -24,7 +24,11 @@
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Virtualbox_logo.png" height="30" alt="logo VirtualBox"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phpmyadmin/phpmyadmin-original.svg" height="30" alt="logo phpMyAdmin"  />
+  <img src="https://styde.net/wp-content/uploads/2014/11/phpmyadmin-logo.png" height="30" alt="logo phpMyAdmin"  />
+  <img width="12" />
+  <img src="https://images.icon-icons.com/2415/PNG/512/mongodb_original_wordmark_logo_icon_146425.png" height="30" alt="MongoDB"  />
+
+  
 </div>
 
 ###
