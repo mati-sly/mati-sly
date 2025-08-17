@@ -33,8 +33,6 @@ I have intermediate skills in Python, CSS, and HTML. I'm passionate about cybers
 
 I have certifications in Python, HTML5, CSS, Linux Essentials, and Introduction to Cybersecurity.  
 
-I also enjoy gaming and series like *Twin Peaks*. Some of my favorite games are *Elden Ring*, *Sonic*, and *Metal Gear*.
-
 ###
 
 ## 📫 Contact Me
@@ -56,24 +54,12 @@ I also enjoy gaming and series like *Twin Peaks*. Some of my favorite games are 
 
 ###
 
-## 🎮 Gaming Favorites
-
-<div align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmhhazB0OGdlM2lhZ2owY2t0bDVmZ2dkb3hkbGU5Z2t2NjdyMzljcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/0BltJWfTwdlivMQPZB/giphy.gif" height="200" alt="Elden Ring GIF" />
-  <img width="20" />
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWUxMHd0MWNjdnhwOXhvbTVjcW4xa3JpanJpbmpkNGUzNW41dHZnbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OTrmVdfjYB0Z7yepBP/giphy.gif" height="200" alt="Sonic GIF" />
-  <img width="20" />
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWNxYTgzOWp4bW8wYjdvNjV6N3ZvcDV4YWRvdGRuajlhaXl3NTMyaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CFGyQLh90JU7S/giphy.gif" height="200" alt="Metal Gear GIF" />
-</div>
-
-###
-
 ## 🛠 Skills & Tools
 
 - Programming: Python, HTML, CSS, Bash  
 - Version Control: Git  
 - Platforms: Linux (Mint, Debian, Fedora, Arch)  
-- Tools: VSCode, Docker  
+- Tools: VSCode,Virtualbox, PHPMyAdmin
 - Interests: Cybersecurity, Linux administration, software automation  
 
 ###
@@ -89,5 +75,16 @@ I also enjoy gaming and series like *Twin Peaks*. Some of my favorite games are 
 
 ###
 
-<br clear="both">
+## 🎮 Gaming Favorites
 
+<div align="center">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmhhazB0OGdlM2lhZ2owY2t0bDVmZ2dkb3hkbGU5Z2t2NjdyMzljcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/0BltJWfTwdlivMQPZB/giphy.gif" height="200" alt="Elden Ring GIF" />
+  <img width="20" />
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWUxMHd0MWNjdnhwOXhvbTVjcW4xa3JpanJpbmpkNGUzNW41dHZnbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OTrmVdfjYB0Z7yepBP/giphy.gif" height="200" alt="Sonic GIF" />
+  <img width="20" />
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWNxYTgzOWp4bW8wYjdvNjV6N3ZvcDV4YWRvdGRuajlhaXl3NTMyaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CFGyQLh90JU7S/giphy.gif" height="200" alt="Metal Gear GIF" />
+</div>
+
+###
+
+<br clear="both">
