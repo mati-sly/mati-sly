@@ -92,7 +92,6 @@ Aquí puedes agregar tus certificaciones con enlace al certificado. Usa esta pla
 - [**Operating Systems Basics Badge**](https://drive.google.com/file/d/1jcyrgxAMI91m7eJJiMr-WVu79EQ_kwuO/view) – Cisco Networking Academy / 2024  
 
 
-(Ejemplo: [Certificación en Python](https://www.ejemplo.com/certificado-python) – OpenClassrooms / 2024)
 
 ###
 
