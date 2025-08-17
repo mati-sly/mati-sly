@@ -43,11 +43,11 @@ I also enjoy gaming and series like *Twin Peaks*. Some of my favorite games are 
 ## 🎮 Gaming Favorites
 
 <div align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmhhazB0OGdlM2lhZ2owY2t0bDVmZ2dkb3hkbGU5Z2t2NjdyMzljcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/0BltJWfTwdlivMQPZB/giphy.gif" height="100" alt="Elden Ring GIF" />
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmhhazB0OGdlM2lhZ2owY2t0bDVmZ2dkb3hkbGU5Z2t2NjdyMzljcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/0BltJWfTwdlivMQPZB/giphy.gif" height="200" alt="Elden Ring GIF" />
   <img width="20" />
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWUxMHd0MWNjdnhwOXhvbTVjcW4xa3JpanJpbmpkNGUzNW41dHZnbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OTrmVdfjYB0Z7yepBP/giphy.gif" height="100" alt="Sonic GIF" />
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWUxMHd0MWNjdnhwOXhvbTVjcW4xa3JpanJpbmpkNGUzNW41dHZnbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OTrmVdfjYB0Z7yepBP/giphy.gif" height="200" alt="Sonic GIF" />
   <img width="20" />
-  <img src="https://media.giphy.com/media/xT9IgIc0lryrxvqVGM/giphy.gif" height="100" alt="Metal Gear GIF" />
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWNxYTgzOWp4bW8wYjdvNjV6N3ZvcDV4YWRvdGRuajlhaXl3NTMyaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CFGyQLh90JU7S/giphy.gif" height="200" alt="Metal Gear GIF" />
 </div>
 
 ###
