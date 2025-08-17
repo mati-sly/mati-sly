@@ -91,14 +91,14 @@ Aquí puedes agregar tus certificaciones con enlace al certificado. Usa esta pla
 
 ###
 
-## 🎮 Videojuegos Favoritos (Sección Divertida)
+## 🎮 Videojuegos Favoritos 
 
 <div align="center" style="border: 1px solid #444; padding: 10px; border-radius: 10px;">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmhhazB0OGdlM2lhZ2owY2t0bDVmZ2dkb3hkbGU5Z2t2NjdyMzljcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/0BltJWfTwdlivMQPZB/giphy.gif" height="100" alt="Elden Ring" />
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmhhazB0OGdlM2lhZ2owY2t0bDVmZ2dkb3hkbGU5Z2t2NjdyMzljcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/0BltJWfTwdlivMQPZB/giphy.gif" height="200" alt="Elden Ring" />
   <img width="10" />
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWUxMHd0MWNjdnhwOXhvbTVjcW4xa3JpanJpbmpkNGUzNW41dHZnbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OTrmVdfjYB0Z7yepBP/giphy.gif" height="100" alt="Sonic" />
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWUxMHd0MWNjdnhwOXhvbTVjcW4xa3JpanJpbmpkNGUzNW41dHZnbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OTrmVdfjYB0Z7yepBP/giphy.gif" height="200" alt="Sonic" />
   <img width="10" />
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWNxYTgzOWp4bW8wYjdvNjV6N3ZvcDV4YWRvdGRuajlhaXl3NTMyaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CFGyQLh90JU7S/giphy.gif" height="100" alt="Metal Gear" />
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWNxYTgzOWp4bW8wYjdvNjV6N3ZvcDV4YWRvdGRuajlhaXl3NTMyaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CFGyQLh90JU7S/giphy.gif" height="200" alt="Metal Gear" />
 </div>
 
 ###
