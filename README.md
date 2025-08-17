@@ -27,14 +27,27 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
 </div>
 
-
 ###
 
 ## 📝 Biography
 
-I learned to use Linux with the terminal on a Chromebook. I've been in this beautiful world of Linux for 4 years. Currently, I use Linux Mint with Debian, but I’ve tried most distributions, from Fedora to Arch, including KDE Neon.
+I learned to use Linux with the terminal on a Chromebook. I've been in this beautiful world of Linux for 4 years. Currently, I use Linux Mint Debian Edition, but I’ve tried most distributions, from Fedora to Arch, including KDE Neon.
 
-I have intermediate skills in Python, CSS, and HTML.
+I have intermediate skills in Python, CSS, and HTML. I'm passionate about cybersecurity, Linux system administration, and software development. I enjoy learning through practice, optimizing workflows, and exploring open-source tools.
+
+I have certifications in Python, HTML5, CSS, Linux Essentials, and Introduction to Cybersecurity.  
+
+I also enjoy gaming, watching series like *Twin Peaks*, and working on personal projects like web apps and automation scripts.
+
+###
+
+## 🛠 Skills & Tools
+
+- Programming: Python, HTML, CSS, Bash  
+- Version Control: Git  
+- Platforms: Linux (Mint, Debian, Fedora, Arch)  
+- Tools: VSCode, Docker  
+- Interests: Cybersecurity, Linux administration, software automation  
 
 ###
 
