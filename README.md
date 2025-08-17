@@ -37,7 +37,19 @@ I have intermediate skills in Python, CSS, and HTML. I'm passionate about cybers
 
 I have certifications in Python, HTML5, CSS, Linux Essentials, and Introduction to Cybersecurity.  
 
-I also enjoy gaming, watching series like *Twin Peaks*, and working on personal projects like web apps and automation scripts.
+I also enjoy gaming and series like *Twin Peaks*. Some of my favorite games are *Elden Ring*, *Sonic*, and *Metal Gear*.
+
+###
+
+## 🎮 Gaming Favorites
+
+<div align="center">
+  <img src="https://media.giphy.com/media/3o6ZsY8u2VtUq6aZmM/giphy.gif" height="100" alt="Elden Ring GIF" />
+  <img width="20" />
+  <img src="https://media.giphy.com/media/3o6ZtpxSZbQRRnwCKQ/giphy.gif" height="100" alt="Sonic GIF" />
+  <img width="20" />
+  <img src="https://media.giphy.com/media/xT9IgIc0lryrxvqVGM/giphy.gif" height="100" alt="Metal Gear GIF" />
+</div>
 
 ###
 
