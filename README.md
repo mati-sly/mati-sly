@@ -103,6 +103,7 @@ Aquí puedes agregar tus certificaciones con enlace al certificado:
   <img width="10" />
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWNxYTgzOWp4bW8wYjdvNjV6N3ZvcDV4YWRvdGRuajlhaXl3NTMyaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CFGyQLh90JU7S/giphy.gif" height="200" alt="Metal Gear" />
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnJwc3ltaThoeWdiMXQzYjRqdjB5ODFkOTA4cWNhaDE5cGhla25zZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f46iWuMqIGuXe/giphy.gif" height="200" alt="Metal Gear" />
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTRhajVkaHA4YzZobDFvODVnOHV6ZGY3bm5lMWk4ZDk3NDBkOWg2OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lGwMbk1mnR099IxAhj/giphy.gif" height="200" alt="Metal Gear" />
 
 </div>
 
