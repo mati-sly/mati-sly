@@ -101,7 +101,7 @@ Tengo habilidades intermedias en Python, CSS y HTML, y me interesan la cibersegu
     <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmhhazB0OGdlM2lhZ2owY2t0bDVmZ2dkb3hkbGU5Z2t2NjdyMzljcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/0BltJWfTwdlivMQPZB/giphy.gif" height="200" alt="Elden Ring" />
     <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWUxMHd0MWNjdnhwOXhvbTVjcW4xa3JpanJpbmpkNGUzNW41dHZnbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OTrmVdfjYB0Z7yepBP/giphy.gif" height="200" alt="Sonic" />
     <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWNxYTgzOWp4bW8wYjdvNjV6N3ZvcDV4YWRvdGRuajlhaXl3NTMyaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CFGyQLh90JU7S/giphy.gif" height="200" alt="Metal Gear" />
-    <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTRhajVkaHA4YzZobDFvODVnOHV6ZGY3bm5lMWk4ZDk3NDBkOWg2OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lGwMbk1mnR099IxAhj/giphy.gif" height="200" alt="Lain Game 1" />
+   
   </div>
 
   <!-- Segunda fila -->
@@ -109,8 +109,7 @@ Tengo habilidades intermedias en Python, CSS y HTML, y me interesan la cibersegu
     <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2pwYmJ2d2U2eGc4NHcwZnBsb2czZDFrNjIxYnR5ZWN2Nm93ZzljcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qXzaLPChUD5iOtg7kJ/giphy.gif" height="200" alt="Lain Game 2" />
     <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNW4zbWphczR3Y25jYmZ6Y2FrcWxkcG95bmk0bjFvbTA5bjBsNXh2NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XZbAsygv5VTZ5oumfo/giphy.gif" height="200" alt="Glitch Anime" />
     <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWF1N3E0dXUzMTJ3YmNoMDdyeHNtaHBzcmJ0YXN6emRwdWx4ODJodSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xBp6ZYaUXRWTCSZVgL/giphy.gif" height="200" alt="Cyber Anime" />
-    <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGM2ZGF3anFzYTdkdjZramNuc3QybzV0dDI1NzVnbWU3M2Nvc2M4bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lGwMbk1mnR099IxAhj/giphy.gif" height="200" alt="Like A Dragon" />
-  </div>
+    
 </div>
 
 
