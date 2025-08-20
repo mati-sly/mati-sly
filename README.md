@@ -87,7 +87,7 @@ Tengo habilidades intermedias en Python, CSS y HTML, y me interesan la cibersegu
 
 ## 🎓 Certificaciones
 
-Aquí puedes agregar tus certificaciones con enlace al certificado:  
+
 
 - [**NDG Linux Essentials – Linux Professional Institute (LPI)**](https://drive.google.com/file/d/1mVoHwxvwfTqnQyS1o7pRjSe_ih_PzNg6/view) – Cisco Networking Academy / 2024  
 - [**Operating Systems Basics Badge**](https://drive.google.com/file/d/1jcyrgxAMI91m7eJJiMr-WVu79EQ_kwuO/view) – Cisco Networking Academy / 2024  
