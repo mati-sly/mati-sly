@@ -1,116 +1,66 @@
 
-<h2 align="center">
-  👋 ¡Hola! Soy <strong>Matías</strong> · Usuario de Linux desde Chile 🇨🇱
-</h2>
-
-<p align="center">
-  <em>Linux · Open Source · Terminal · Retro aesthetics</em>
-</p>
-
 <div align="center">
-  <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia.tenor.co%2Fimages%2F3569342de6190d7e2e373832583e8e1d%2Fraw&f=1&nofb=1&ipt=1e68bb1b508a120a33b9b667c609b74d4c0a11870781971e49d6e3c9e33cff24" height="200" alt="Aesthetic retro GIF" />
+  <img src="https://media.tenor.co/images/3569342de6190d7e2e373832583e8e1d/raw" height="150" alt="Lain Terminal" />
+  <img src="https://media.giphy.com/media/3o7abJxL1w984uW2AM/giphy.gif" height="150" alt="Matrix Neo" />
+  
+  <h1>¡Hola! Soy Matías <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2Z6Z3N6Z3N6Z3N6Z3N6Z3N6Z3N6Z3N6Z3N6Z3N6Z3N6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9iZCZjdD1n/WUl9mNCuLIDU1n5G3S/giphy.gif" width="30"></h1>
+  <p><i>Estudiante de Ingeniería en Informática | Linux Enthusiast | SysAdmin Aspirant</i></p>
+
+  <img src="https://img.shields.io/badge/Chile-Coquimbo-red?style=flat-square&logo=googlemaps&logoColor=white" />
+  <img src="https://img.shields.io/badge/Distro-LMDE-00b140?style=flat-square&logo=linuxmint&logoColor=white" />
+  <img src="https://img.shields.io/badge/Current_Project-QWin_Soluciones-blue?style=flat-square" />
 </div>
 
 ---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mati-sly&show_icons=true&include_all_commits=true&count_private=true&theme=dark" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mati-sly&layout=compact&langs_count=6&theme=dark" height="160" />
+### 👤 Sobre mí
+
+Llevo **4 años** inmerso en el ecosistema Linux. Mi camino comenzó en la terminal de un Chromebook y hoy domino distribuciones como **LMDE, Arch y Fedora**. Me especializo en el *ricing*, la administración de servidores y la automatización de flujos de trabajo.
+
+- 🔭 Actualmente trabajando en: **Prototipo de Biblioteca Virtual** y proyectos de **QWin Soluciones**.
+- 🎓 Estudiante de 3er año de Ingeniería en Informática.
+- 🐧 Apasionado por la ciberseguridad y la gestión de **Active Directory**.
+
+---
+
+### 🛠️ Stack Tecnológico
+
+<div align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <br>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white" />
 </div>
 
 ---
 
-## 🧰 Tech Stack
+### 📊 Estadísticas de GitHub
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="34" />
-  <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="34" />
-  <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="34" />
-  <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="34" />
-  <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="34" />
-  <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="34" />
-  <img width="14" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Virtualbox_logo.png" height="34" />
-  <img width="14" />
-  <img src="https://styde.net/wp-content/uploads/2014/11/phpmyadmin-logo.png" height="34" />
-  <img width="14" />
-  <img src="https://images.icon-icons.com/2415/PNG/512/mongodb_original_wordmark_logo_icon_146425.png" height="34" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mati-sly&show_icons=true&theme=tokyonight&count_private=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mati-sly&layout=compact&theme=tokyonight&langs_count=6" height="170" />
 </div>
 
 ---
 
-## 📜 Sobre mí
+### 📜 Certificaciones
 
-Aprendí a usar **Linux desde la terminal en un Chromebook**.  
-Llevo más de **4 años** en el ecosistema Linux y actualmente utilizo  
-**Linux Mint Debian Edition**, aunque he probado **Fedora, Arch, KDE Neon**, entre otras.
-
-Me apasiona:
-
-- 🖥️ Linux y el *ricing*
-- ⚙️ Administración de sistemas y servidores
-- 🏢 Gestión de servicios como **Active Directory**
-- 🔧 Automatización y optimización de flujos de trabajo
-
-Tengo conocimientos intermedios en **Python, HTML y CSS**, y un fuerte interés en  
-**ciberseguridad**, **desarrollo de software** y **sistemas open source**.
+- 🏅 **NDG Linux Essentials** – LPI / Cisco Networking Academy (2024)
+- 🏅 **Operating Systems Basics** – Cisco Networking Academy (2024)
 
 ---
 
-## 🧠 Habilidades
-
-- **Lenguajes:** Python, Bash, HTML, CSS  
-- **Plataformas:** Linux (Mint, Debian, Fedora, Arch)  
-- **Frameworks / Herramientas:** React, Django, VS Code, Git  
-- **Infraestructura:** VirtualBox, phpMyAdmin  
-- **Intereses:** SysAdmin, servidores, Active Directory, automatización, seguridad
-
----
-
-## 📫 Contacto
-
-- 📧 **Email:** [matias34890@gmail.com](mailto:matias34890@gmail.com)
-- 💼 **LinkedIn:** https://www.linkedin.com/in/matias-vega-280ba1235/
-- 🐙 **GitHub:** https://github.com/mati-sly
-
----
+### 📫 Contacto
 
 <div align="center">
-  <img src="https://img.shields.io/badge/YouTube-1f1f1f?style=for-the-badge&logo=youtube&logoColor=ff0000" />
-  <img src="https://img.shields.io/badge/Instagram-1f1f1f?style=for-the-badge&logo=instagram&logoColor=e4405f" />
-  <img src="https://img.shields.io/badge/Twitch-1f1f1f?style=for-the-badge&logo=twitch&logoColor=9146ff" />
-  <img src="https://img.shields.io/badge/Discord-1f1f1f?style=for-the-badge&logo=discord&logoColor=7289da" />
-  <img src="https://img.shields.io/badge/LinkedIn-1f1f1f?style=for-the-badge&logo=linkedin&logoColor=0077b5" />
+  <a href="mailto:matias34890@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/matias-vega-280ba1235/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/mati-sly"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </div>
-
----
-
-## 🎓 Certificaciones
-
-- **NDG Linux Essentials** — LPI / Cisco Networking Academy (2024)  
-- **Operating Systems Basics Badge** — Cisco Networking Academy (2024)
-
----
-
-## 🎮 Videojuegos Favoritos
-
-- Elden Ring  
-- Dark Souls III  
-- Nier: Automata  
-- Monster Hunter World  
-- Metal Gear Rising: Revengeance  
-- DOOM  
-- Chrono Trigger  
-
----
-
-<p align="center">
-  <sub>“No matter where you go, everyone’s connected.” — Serial Experiments Lain</sub>
-</p>
 
 
