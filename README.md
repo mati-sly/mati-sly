@@ -36,8 +36,6 @@ Aprendí a usar Linux desde la terminal en un Chromebook. Llevo **4 años** en e
 
 - 🚀 **Enfoque:** Optimizar flujos de trabajo y explorar herramientas de código abierto.
 - 🎓 **Estatus:** Estudiante de 3er año de Ingeniería en Informática.
-- 🔭 **Proyectos:** Desarrollando para **QWin Soluciones** y finalizando el prototipo de **Biblioteca Virtual**.
-
 ---
 
 ### 🛠️ Habilidades y Herramientas
@@ -50,12 +48,21 @@ Aprendí a usar Linux desde la terminal en un Chromebook. Llevo **4 años** en e
 
 ---
 
-### 📊 Estadísticas de GitHub
+
+### 📊 Estadísticas y Actividad
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mati-sly&show_icons=true&theme=dark&count_private=true&include_all_commits=true" height="150" alt="Estadísticas GitHub" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mati-sly&layout=compact&langs_count=5&theme=dark" height="150" alt="Lenguajes más usados" />
 </div>
+
+<br>
+
+<div align="center">
+  <img src="https://github.com/mati-sly/mati-sly/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</div>
+
+
 
 ---
 
