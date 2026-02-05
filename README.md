@@ -38,14 +38,6 @@ Aprendí a usar Linux desde la terminal en un Chromebook. Llevo **4 años** en e
 - 🎓 **Estatus:** Estudiante de 3er año de Ingeniería en Informática.
 - 🔭 **Proyectos:** Desarrollando para **QWin Soluciones** y finalizando el prototipo de **Biblioteca Virtual**.
 
-<p align="center">
-  <img src="https://media1.giphy.com/media/xUOwG6WpYHxPEx86EE/giphy.gif" width="10%">
-</p>
-
-<p align="center">
-  ■ 𝐈𝐧 𝐭𝐡𝐞 𝐩𝐫𝐨𝐯𝐢𝐧𝐜𝐞 𝐨𝐟 𝐭𝐡𝐞 𝐦𝐢𝐧𝐝 𝐚𝐧𝐲𝐭𝐡𝐢𝐧𝐠 𝐢𝐬 𝐩𝐨𝐬𝐬𝐢𝐛𝐥𝐞 ■
-</p>
-
 ---
 
 ### 🛠️ Habilidades y Herramientas
@@ -61,16 +53,24 @@ Aprendí a usar Linux desde la terminal en un Chromebook. Llevo **4 años** en e
 ### 📊 Estadísticas de GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mati-sly&theme=dark&show_icons=true&count_private=true&include_all_commits=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mati-sly&layout=compact&theme=dark&langs_count=5" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mati-sly&show_icons=true&theme=dark&count_private=true&include_all_commits=true" height="150" alt="Estadísticas GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mati-sly&layout=compact&langs_count=5&theme=dark" height="150" alt="Lenguajes más usados" />
 </div>
 
 ---
 
 ### 📜 Certificaciones
 
-- 🏅 **NDG Linux Essentials** – Linux Professional Institute (LPI) / Cisco Networking Academy (2024)  
+- 🏅 **NDG Linux Essentials** – LPI / Cisco Networking Academy (2024)  
 - 🏅 **Operating Systems Basics Badge** – Cisco Networking Academy (2024)
+
+---
+
+### 📧 Contacto
+
+- 📧 **Email:** [matias34890@gmail.com](mailto:matias34890@gmail.com)
+- 💼 **LinkedIn:** [Perfil](https://www.linkedin.com/in/matias-vega-280ba1235/)
+- 🐙 **GitHub:** [mati-sly](https://github.com/mati-sly)
 
 ---
 
@@ -82,22 +82,6 @@ Aprendí a usar Linux desde la terminal en un Chromebook. Llevo **4 años** en e
     <img src="https://media3.giphy.com/media/OTrmVdfjYB0Z7yepBP/giphy.gif" height="150" alt="Sonic" />
     <img src="https://media4.giphy.com/media/CFGyQLh90JU7S/giphy.gif" height="150" alt="Metal Gear" />
   </div>
-  <p><i>Elden Ring | Sonic | Metal Gear</i></p>
 </div>
 
----
-
-### 🔗 Contacto
-
-<div align="left">
-  <a href="mailto:matias34890@gmail.com"><img src="https://img.shields.io/static/v1?message=Email&logo=gmail&color=D14836&logoColor=white&style=for-the-badge" height="30" /></a>
-  <a href="https://www.linkedin.com/in/matias-vega-280ba1235/"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&logoColor=white&style=for-the-badge" height="30" /></a>
-  <a href="https://github.com/mati-sly"><img src="https://img.shields.io/static/v1?message=GitHub&logo=github&color=181717&logoColor=white&style=for-the-badge" height="30" /></a>
-</div>
-
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&color=1f1f1f&logoColor=ff0000&style=for-the-badge" height="30" />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&color=1f1f1f&logoColor=e4405f&style=for-the-badge" height="30" />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&color=1f1f1f&logoColor=7289da&style=for-the-badge" height="30" />
-</div>
 
